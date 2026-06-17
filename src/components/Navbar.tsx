@@ -8,6 +8,7 @@ const links = [
   { href: '/write', label: '업무 기록' },
   { href: '/list', label: '전체 목록' },
   { href: '/meeting', label: '월말 회의' },
+  { href: '/chat', label: '💬 챗봇' },
 ];
 
 export default function Navbar() {
